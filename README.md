@@ -12,7 +12,7 @@
 ## Objectifs
 - Concevoir une application web pour Spotify.
 - Concervoir une charte graphique cohérente.
-- Simplicitée d'utilisation
+- Simplicité d'utilisation.
 
 ## Techno
 - HTML
