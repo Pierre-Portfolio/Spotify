@@ -7,12 +7,12 @@
 # Site Fan Spotify
 
 ## Petit résumé
-- Ce projet est une version revisitée du site web de Spotify avec une ergonomie simplifiée.
+- Ce projet est une version revisitée du site web de Spotify avec une ergonomie simplifiée permettant d'avoir plus d'informations sur le produit.
 
 ## Objectifs
 - Concevoir une application web pour Spotify.
-- Concervoir une charte graphique cohérente.
-- Simplicité d'utilisation.
+- Concevoir une charte graphique adaptée.
+- Réalisation d'une ergonomie simple.
 
 ## Techno
 - HTML
