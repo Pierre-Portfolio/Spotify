@@ -7,7 +7,7 @@
 # Site Fan Spotify
 
 ## Petit résumé
-- Ce projet est une version revisitée du site web de Spotify avec une ergonomie simplifiée permettant d'avoir plus d'informations sur le produit.
+- Ce projet est une version revisitée du site web de Spotify réalisée en 2017 afin de présenter le produit Spotify.
 
 ## Objectifs
 - Concevoir une application web pour Spotify.
@@ -17,7 +17,6 @@
 ## Techno
 - HTML
 - CSS
-- SQL
 - JavaScript
 
 ## UI
