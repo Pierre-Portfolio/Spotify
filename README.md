@@ -24,7 +24,3 @@
 
 ## Author
 - [Pierre](https://github.com/Pierre-Portfolio)
-
-<h1 align="center">
-  <img src="./Assets/star.gif" alt="star" />
-</h1>
