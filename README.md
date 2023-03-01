@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="./Assets/header.png" alt="Spotify" />
+  <img src="./Assets/star.gif" alt="star" />
 </h1>
 
 ---
