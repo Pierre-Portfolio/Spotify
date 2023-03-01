@@ -4,23 +4,23 @@
 
 ---
 
-# Site Fan Spotify
+# Spotify Fan Site
 
-## Petit résumé
-- Ce projet est une version revisitée du site web Spotify afin d'en présenter le service.
+## Summary
+- This project is a revamped version of the Spotify website aimed at showcasing the service.
 
-## Objectifs
-- Concevoir une application web pour Spotify.
-- Concevoir une charte graphique adaptée.
-- Réalisation d'une ergonomie simple.
+## Objectives
+- Design a web application for Spotify.
+- Create an appropriate graphic design.
+- Develop a simple user interface.
 
-## Techno
+## Technologies
 - HTML
 - CSS
 - JavaScript
 
-## UI
+## User Interface
 <img src="./Assets/UI.png" alt="Spotify" />
 
-## Auteur
+## Author
 - [@Pierre](https://github.com/Pierre-Portfolio)
