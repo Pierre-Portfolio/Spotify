@@ -24,3 +24,7 @@
 
 ## Author
 - [Pierre](https://github.com/Pierre-Portfolio)
+
+---
+
+<p align="center">This project was completed in 2017</p>
