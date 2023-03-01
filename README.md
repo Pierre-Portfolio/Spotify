@@ -7,11 +7,11 @@
 # Spotify Fan Site
 
 ## Summary
-- This project is a revamped version of the Spotify website aimed at showcasing the service.
+- This project is a revamped version of the Spotify website aimed at showcasing their service.
 
 ## Objectives
 - Design a web application for Spotify.
-- Create an appropriate graphic design.
+- Create an graphic design.
 - Develop a simple user interface.
 
 ## Technologies
