@@ -23,4 +23,4 @@
 <img src="./Assets/UI.png" alt="Spotify" />
 
 ## Author
-- [@Pierre](https://github.com/Pierre-Portfolio)
+- [Pierre](https://github.com/Pierre-Portfolio)
