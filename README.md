@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="./Assets/header.png" alt="Spotify" />
-  <img src="./Assets/star.png" alt="Spotify" />
 </h1>
 
 ---
@@ -25,3 +24,7 @@
 
 ## Author
 - [Pierre](https://github.com/Pierre-Portfolio)
+
+<h1 align="center">
+  <img src="./Assets/star.gif" alt="star" />
+</h1>
