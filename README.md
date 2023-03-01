@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="./Assets/header.png" alt="Spotify" />
 </h1>
-  <img src="./Assets/star.gif" alt="star" />
+<img src="./Assets/star.gif" alt="star" />
+
 ---
 
 # Spotify Fan Site
